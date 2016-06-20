@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_8db1bd9d1c7678b01e81e5e80443b4b5284ff6f2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_a7e5453f3dd584c79105a371a2b0744b0577be78/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_b59e8341cd2d6728b25391cea2ae4b7e10be8ab3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="919d9ba8684207a99547d97155b0373824d47aad">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b32b940729140783ef06f24f148c1ee35a97610c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="0ba8119a5134c81bdb59610ebee9af2980546024">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1520200637ce6d493489c22ca0702e18386ca3c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_0c6091b54a68f7aa9a75738fbe5ce59e272c0780/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_2f0886a3008ab16badf3bf94dfd864aca257db8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_89fd69603564ed23eecfcdf1c568020e746e2ebf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0c80a6a9acf7ba16edd4e6effab7451eae00a653/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_44886d93ce76567221ed11b43e54b7f97abd904b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_dddc1c0efa0ab948b94f2ed5ad9190de622fb855/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_05b68d0cbd41509540df55e01ac5b5d792dd15af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_5d02b4627b696f6d25dec8441e1dd6576b34ee58/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/Geocoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_051496fe884b9833ccfb12c451d060248cf49250/classes.dex" />
+    </item>
+
+</items>
